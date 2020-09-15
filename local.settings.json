@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "suscriptionId": "4d4574d1-8cdb-494a-b508-5a2f9c09310b",
+    "resourceGroup": "rg-demo-gaston",
+    "serverName": "sql-demo-gaston",
+    "databaseName": "syn-demo-gaston",
+    "client_id": "74ff5fca-7edf-475f-bca6-cfabee27aba5",
+    "client_secret": "VFum7Pju3.~nWi_o56DM~2RUWg~~tc5Cf9",
+    "tenant_id": "ca1d08b0-9543-4bd9-8718-42becddc7786",
+    "host": "sql-demo-gaston.database.windows.net",
+    "DBuser": "admindemo",
+    "password": "Ernestina18",
+    "driver": "{ODBC Driver 17 for SQL Server}",
+    "AzureWebJobs.StatusDW2.Disabled": "true"
+  }
+}
